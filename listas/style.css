@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(173, 171, 171);
+}
+ul {
+    list-style-type: none;
+  }
+  
+ ul.listauno li {
+    float:left;
+  width: 200px;
+  border: 5px dashed #7c3d7c;
+  margin-right: 50px;
+  padding: 10px;
+  background-color: #0c8029;
+  color: #471652;
+  font-weight: bold;
+  text-align: center;
+  }
+
+  ul.listados li{
+    display: inline;
+  border: white 2px solid;
+  border-color: white black black white;
+  margin: 20px;
+  padding: 4px;
+  background-color: white;
+  float:right
+  }
+
+  ul.lista3 {
+    width: 200px;
+    border: black 1px solid;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  ul.lista3 li {
+    width: 175px;
+    border: black 1px solid;
+    margin: 5px;
+    padding: 10px;
+    background-color: white;
+    text-align: center;
+  }
+  
