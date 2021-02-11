@@ -1,0 +1,105 @@
+body{
+    background-color: rgb(173, 171, 171);
+}
+ul {
+    list-style-type: none;
+  }
+  
+ ul.listauno li {
+    float:left;
+  width: 200px;
+  border: 5px dashed #7c3d7c;
+  margin-right: 50px;
+  padding: 10px;
+  background-color: #0c8029;
+  color: #471652;
+  font-weight: bold;
+  text-align: center;
+  }
+
+  ul.listados li{
+    display: inline;
+  border: white 2px solid;
+  border-color: white black black white;
+  margin: 20px;
+  padding: 4px;
+  background-color: white;
+  float:right
+  }
+
+  ul.lista3 {
+    width: 200px;
+    border: black 1px solid;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  ul.lista3 li {
+    width: 175px;
+    border: black 1px solid;
+    margin: 5px;
+    padding: 10px;
+    background-color: white;
+    text-align: center;
+  }
+  
+  ul.lista4 {
+    text-align: center;
+  }
+  
+  ul.lista4 li {
+    display: inline-block;
+    width: 150px;
+    margin: 0;
+    padding: 10px;
+    background-color: white;
+    color: blue;
+    font-weight: bold;
+  }
+  
+  ul.lista4 li.azul {
+    background-color: blue;
+    color: white;
+  }
+  
+ 
+
+
+
+ul.lista5 li {
+  float:left;
+  margin-right: 2em;
+}
+
+
+ul.lista5 li {
+  float:left;
+  margin-right: 2em;
+}
+
+ul.lista6 {
+  text-align: center;
+}
+
+ul.lista6 li {
+  display: inline;
+  border: black 0.1em solid;
+  border-radius: 0.3em;
+  margin-right: 1em;
+  padding: 0.5em 0.5em 0.3em;
+  background-color: white;
+  font-size: 200%;
+  line-height: 250%;
+}
+
+ul.lista6 i {
+  margin: 0;
+}
+img.uno{
+  width: 20px;
+  height: 20px;
+}
+img.dos{
+  width: 40px;
+  height: 40px;
+}
